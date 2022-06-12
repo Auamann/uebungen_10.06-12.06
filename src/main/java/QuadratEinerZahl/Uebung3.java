@@ -2,15 +2,14 @@ package QuadratEinerZahl;
 
 public class Uebung3 {
 
-    //Deke habe die Aufgabe missverstanden. Falls es um das Ziehen einer Wurzel ging, fehlt mir hier die Lösung.
-
     public static void main(String[] args) {
 
-        int n = 5;
+        double quadratwurzel = Math.sqrt(25);
+        System.out.println(quadratwurzel);
 
-        System.out.println(n * n);
+        int mal = 5;
+        System.out.println(mal * mal);
     }
-
 
 }
 
