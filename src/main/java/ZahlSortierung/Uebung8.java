@@ -1,4 +1,4 @@
-package Übung8;
+package ZahlSortierung;
 
 import java.util.*;
 

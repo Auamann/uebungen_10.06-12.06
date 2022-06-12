@@ -1,4 +1,4 @@
-package Übung2;
+package GroßKlein_Prüfung;
 
 public class Uebung2 {
 

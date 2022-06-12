@@ -1,4 +1,4 @@
-package Übung10;
+package PWGenerator;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class Uebung10 {
 
     public static void main(String[] args) {
 
-        String[] passwords = {"nichtsicherS"};
+        String[] passwords = {"nichtsicher!"};
         Scanner scanner = new Scanner(System.in);
         multiChecker(passwords);
 

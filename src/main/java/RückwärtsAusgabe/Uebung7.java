@@ -1,4 +1,4 @@
-package Übung7;
+package RückwärtsAusgabe;
 
 public class Uebung7 {
 

@@ -1,5 +1,5 @@
-package Übung9;
-
+package TeilbarDurch;
+//Wird aktuell noch dran gebastelt. Mir ist die Lösung leider noch nicht ganz klar.
 public class Uebung9 {
 
     int arrayGroeße = 2;

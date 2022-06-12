@@ -1,4 +1,4 @@
-package Übung4;
+package NamensBegrüßung;
 
 import java.util.Scanner;
 

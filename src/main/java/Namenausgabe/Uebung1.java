@@ -1,4 +1,4 @@
-package Übung1;
+package Namenausgabe;
 
 public class Uebung1 {
 
